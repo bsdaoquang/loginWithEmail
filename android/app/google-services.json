@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "910993480736",
+    "project_id": "loginwithemail-9aaf7",
+    "storage_bucket": "loginwithemail-9aaf7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910993480736:android:0c1aeed67ea59a2830f045",
+        "android_client_info": {
+          "package_name": "com.loginwithemail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910993480736-vavpr04hs6267kgpnvnan4km8a65v2cb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_JtHBL5TO01yJVGMJu6O4eMXCXxgdOk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910993480736-vavpr04hs6267kgpnvnan4km8a65v2cb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
